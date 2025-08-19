@@ -29,9 +29,6 @@
 
 ## 📂 Proyectos destacados
 
-🔹 [**Gestor de Tareas en Python**](#) → Una aplicación básica de consola para administrar tareas.  
-🔹 [**Mini Juego en JavaScript**](#) → Juego simple en navegador para reforzar lógica de programación.  
-🔹 [**Ejercicios en Java**](#) → Colección de pequeños proyectos orientados a objetos.  
 
 *(En constante actualización a medida que avanzo con mis estudios y prácticas 🚀)*  
 
