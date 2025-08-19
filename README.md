@@ -1,25 +1,28 @@
 <h1 align="center">¡Hola, soy Alex Lombana!</h1>
-<h3 align="center">Desarrollador Full Stack | Apasionado por la Tecnología y la Creatividad</h3>
+<h3 align="center">Desarrollador en formación | Python & JavaScript | Apasionado por la Tecnología</h3>
 
 ---
 
 ## 🚀 Sobre mí
 
-- 👨‍💻 Desarrollador **Full Stack** con experiencia en múltiples lenguajes y frameworks.
-- 💡 Apasionado por crear soluciones **efectivas**, **creativas** y **escalables**.
-- 🎯 Soy **resiliente**, **curioso**, **detallista** y disfruto aprender cosas nuevas.
-- 🎵 Amante de la **música**, el **arte** y los **videojuegos**.
-- 🌟 **Repositorio destacado:** [Cerebro 3D](https://github.com/alexlombana0/cerebro3d)
+- 👨‍💻 Actualmente me encuentro **aprendiendo y fortaleciendo mis habilidades en programación**.
+- 💡 Manejo **Python** y **JavaScript**, con interés en expandirme hacia frameworks y desarrollo web completo.
+- 📚 Mi objetivo es convertirme en un **Desarrollador Full Stack**, construyendo proyectos que sean **útiles** y **creativos**.
+- 🎯 Soy una persona **curiosa**, **resiliente** y siempre dispuesta a mejorar cada día.
+- 🎵 Además de programar, disfruto mucho de la **música**, el **arte** y los **videojuegos**.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Tecnologías y herramientas que uso
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,java,html,css,react,nodejs,mysql,postgresql,git,github,docker,linux" alt="Tecnologías y herramientas" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github" alt="Tecnologías actuales" />
 </p>
 
-*(¡Y muchas más!)*
+### 🌱 En proceso de aprendizaje:
+- Frameworks de **JavaScript (React, Node.js)**  
+- Bases de datos (**MySQL, PostgreSQL**)  
+- Buenas prácticas de **desarrollo y control de versiones**
 
 ---
 
@@ -41,9 +44,9 @@
 
 ## 🎵 Un poco de mí
 
-- 🎸 Me inspiro en la **música** para escribir código.
-- 🎨 Encuentro creatividad en el **arte** y la tecnología.
-- 🕹️ Soy un **gamer** y disfruto resolver retos complejos.
+- 🎸 Me inspiro en la música para mantener el enfoque al programar.  
+- 🎨 El arte me ayuda a ver la programación como un espacio para la **creatividad**.  
+- 🕹️ Soy gamer y me gustan los desafíos que requieren **estrategia y lógica**.  
 
 ---
 
@@ -56,5 +59,5 @@
 ---
 
 <p align="center">
-  <em>¡Gracias por visitar mi perfil! Sigamos aprendiendo y creciendo juntos 🚀</em>
+  <em>Este perfil refleja mi camino de aprendizaje. ¡Vamos paso a paso, pero con visión de llegar lejos! 🚀</em>
 </p>
