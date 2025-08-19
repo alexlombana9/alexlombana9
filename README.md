@@ -37,7 +37,7 @@
 ## 🌎 Conéctate conmigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sebastian-pava-lombana-736307268/" target="_blank">
+  <a href="www.linkedin.com/in/sebastián-alexander-pava-lombana-736307268" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/ImAraziel" target="_blank">
