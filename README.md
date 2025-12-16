@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola, soy Alex Lombana! 👋</h1>
-<h3 align="center">Desarrollador en formación | Python • JavaScript • Java | Apasionado por la Tecnología</h3>
+<h3 align="center">Desarrollador | Python • JavaScript • Java | Apasionado por la Tecnología</h3>
 
 ---
 
