@@ -1,67 +1,59 @@
-<h1 align="center">¡Hola, soy Alex Lombana! 👋</h1>
-<h3 align="center">Desarrollador | Python • JavaScript • Java | Apasionado por la Tecnología</h3>
+# Ingeniero de Sistemas | Desarrollador Full Stack
+
+Soy **Ingeniero de Sistemas** y **desarrollador full stack** con una mentalidad profundamente orientada a la **innovación**, la **calidad técnica** y el **aprendizaje constante**. Disfruto entender cómo funcionan las cosas a fondo, cuestionar lo establecido y mejorar procesos, código y arquitecturas de forma continua.
+
+No concibo la tecnología como algo estático: me mantengo en actualización permanente y asumo cada proyecto como una oportunidad para aprender algo nuevo. La curiosidad es uno de mis principales motores y se refleja en la forma en que abordo problemas complejos, exploro soluciones y adopto nuevas herramientas.
 
 ---
 
-## 🚀 Sobre mí
+## Enfoque profesional
 
-- 👨‍💻 Actualmente me encuentro **aprendiendo y fortaleciendo mis habilidades en programación**.  
-- 💡 Manejo **Python** y **JavaScript** como lenguajes principales.  
-- ☕ Tengo conocimientos en **Java**, con bases en programación orientada a objetos.  
-- 🎯 Mi objetivo es convertirme en un **Desarrollador Full Stack**, con capacidad de crear aplicaciones útiles y escalables.  
-- 📚 Me caracterizo por ser **curioso, resiliente y autodidacta**, siempre buscando crecer y mejorar.  
-- 🎵 Además de programar, disfruto de la **música**, el **arte** y los **videojuegos**, fuentes de creatividad e inspiración en mi trabajo.  
+Trabajo el desarrollo de software desde una visión integral. Me interesa no solo que una aplicación funcione, sino que esté **bien diseñada**, sea **escalable**, **mantenible** y alineada con **buenas prácticas de ingeniería**. Tengo afinidad con el enfoque **DevOps**, entendiendo el software como un ciclo completo que va desde la idea hasta su operación en producción.
+
+Mi fortaleza principal es **Python**, lenguaje con el que he desarrollado soluciones backend, automatización, integración de servicios y proyectos relacionados con **inteligencia artificial**. Me siento cómodo construyendo lógica compleja, estructurando código limpio y priorizando la legibilidad y eficiencia.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## Intereses técnicos
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,java,html,css,git,github,vscode" alt="Tecnologías actuales" />
-</p>
-
-### 🌱 En proceso de aprendizaje:
-- Frameworks de **JavaScript (React, Node.js)**  
-- Bases de datos (**MySQL, PostgreSQL**)  
-- Control de versiones y **buenas prácticas de desarrollo**  
+* Desarrollo backend con **Python**
+* **Inteligencia Artificial** y sistemas inteligentes
+* Automatización y mejora de procesos
+* Arquitecturas orientadas a operaciones (DevOps)
+* Diseño de software mantenible y bien documentado
 
 ---
 
-## 📂 Proyectos destacados
+## Tecnologías
 
+### Lenguajes de programación
 
-*(En constante actualización a medida que avanzo con mis estudios y prácticas 🚀)*  
+* **Python** (principal)
+* JavaScript
+* TypeScript
+* Java
+* C#
 
----
+### Frameworks
 
-## 🌎 Conéctate conmigo
+* **Django** (base sólida, en crecimiento)
+* **React** (uso básico para integración frontend-backend)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sebastián-alexander-pava-lombana-736307268" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/ImAraziel" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://github.com/alexlombana9" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+### Bases de datos
 
----
-
-## 📊 Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexlombana9&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexlombana9&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
-</p>
+* **SQL**: modelado de datos, consultas complejas y diseño relacional
+* **NoSQL**: comprensión de distintos enfoques y casos de uso
 
 ---
 
-<p align="center">
-  <em>Este perfil refleja mi camino de aprendizaje. Cada día escribo más código, aprendo nuevas tecnologías y me acerco un poco más a convertirme en el desarrollador que quiero ser 🚀</em>
-</p>
+## Forma de trabajar
+
+* Prioridad al **código limpio y mantenible**
+* Aplicación de principios como **SOLID** y buenas prácticas de ingeniería
+* Uso responsable de control de versiones
+* Enfoque en escalabilidad, seguridad y claridad
+* Documentación como parte del desarrollo, no como un extra
+
+---
+
+Creo firmemente que un buen software no se trata solo de escribir código, sino de **pensar bien los problemas**, tomar decisiones técnicas conscientes y nunca dejar de aprender. Siempre abierto a nuevos retos, colaboración y crecimiento profesional.
