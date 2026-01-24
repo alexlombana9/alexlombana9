@@ -71,8 +71,22 @@ Mi lenguaje principal es **Python**, alrededor del cual he desarrollado la mayor
 ### Herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
 </p>
+
+* IDEs modernos y editores avanzados (VS Code y entornos extendidos)
+* Uso de **agentes de IA y herramientas asistidas** para acelerar desarrollo, análisis y refactorización
+* Automatización de tareas y mejora del flujo de trabajo
+* Control de versiones y colaboración efectiva en GitHub
+
+---
+
+## Metodologías de trabajo
+
+* **Scrum / Agile**: trabajo iterativo, enfoque incremental y mejora continua
+* Planificación orientada a objetivos y entregables claros
+* Comunicación técnica clara y colaboración en equipo
+* Adaptabilidad al cambio y feedback constante
 
 ---
 
