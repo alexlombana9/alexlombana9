@@ -27,10 +27,6 @@ I'm particularly interested in **developer tooling**, **data-driven applications
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=alexlombana9&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexlombana9&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
-
 </div>
 
 <div align="center">
