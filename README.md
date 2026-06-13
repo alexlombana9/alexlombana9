@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Alex Lombana 👋
+# Hey, I'm Alex Lombana 
 
 **Software Developer · Full-Stack · Python & JS/TS**
 
@@ -13,7 +13,7 @@
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
 I'm a software developer passionate about building clean, maintainable applications with modern web technologies. My experience spans full-stack development with **JavaScript/TypeScript**, **React**, and **Node.js**, as well as **Python** for backend and data visualization projects.
 
@@ -37,7 +37,7 @@ I'm particularly interested in **developer tooling**, **data-driven applications
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -54,7 +54,7 @@ I'm particularly interested in **developer tooling**, **data-driven applications
 
 ---
 
-### 📈 Contribution Graph
+### Contribution Graph
 
 <div align="center">
 
