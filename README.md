@@ -5,8 +5,6 @@
 **Software Developer · Full-Stack · Python & JS/TS**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-alexlombana9-0A0A0A?style=for-the-badge&logo=github-pages&logoColor=white)](https://alexlombana9.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebasti%C3%A1n-alexander-pava-lombana-736307268/)
-[![Twitter](https://img.shields.io/badge/X-@ImAraziel-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ImAraziel)
 [![Email](https://img.shields.io/badge/Email-spava2311@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spava2311@gmail.com)
 
 </div>
